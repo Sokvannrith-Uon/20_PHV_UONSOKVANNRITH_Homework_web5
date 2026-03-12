@@ -10,7 +10,7 @@ function Header() {
         <nav className="flex w-[1300px] items-center justify-between m-auto  ">
           <div className="flex items-center">
             <img
-              className="w-20 rounded-full h-20"
+              className="w-20 rounded-full h-20 border-2 border-white"
               src="https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10115.jpg?semt=ais_rp_50_assets&w=740&q=80"
               alt=""
             />
